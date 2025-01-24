@@ -1,6 +1,7 @@
 
 
-const linkfetch = "http://localhost:3000/users/year"
+const linkfetch = "https://whatyearisit-backend-indol-omega.vercel.app/year"
+
 
 fetch(linkfetch)
 .then(response => response.json())
