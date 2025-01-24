@@ -1,6 +1,6 @@
 
 
-const linkfetch = "https://whatyearisit-backend-indol-omega.vercel.app/users/year"
+const linkfetch = "https://whatyearisit-backend-indol-omega.vercel.app/year"
 
 
 fetch(linkfetch)
